@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+*.iml
+.htaccess
+.idea/
+spa/bower_components
